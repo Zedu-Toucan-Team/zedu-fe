@@ -18,7 +18,7 @@ export const zeduToucanContributors: Contributor[] = [
   { name: "Mav.js", username: "NdulueMarvellous" },
   { name: "Confidence Nzube Ndubuisi", username: "nzube123" },
   { name: "Olu Ojeniyi", username: "oluojeniyis" },
-  { name: "sheddylyke", username: "sheddylyke" },
+  { name: "Shedrack Dauda Kondo", username: "sheddylyke" },
   { name: "Miracle Olorunsola", username: "Techgirli" },
   { name: "Vivian Nduka", username: "Vivian-04" },
   { name: "Solomon Theophilus", username: "solomontheo123" },
