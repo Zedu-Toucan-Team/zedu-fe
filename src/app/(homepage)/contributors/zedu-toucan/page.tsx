@@ -3,7 +3,7 @@ import { ogImageUrl, siteUrl } from "~/lib/env-urls";
 import { DynamicFooter } from "../../_components/footer/dynamic-footer";
 import { Sparkles } from "lucide-react";
 import { ContributorCard } from "./_components/ContributorCard";
-import { zeduToucanContributors as contributors } from "~/data/zedu-toucan-contributors";
+import { zeduToucanContributors as contributors } from "./lib/zedu-toucan-contributors";
 
 export const metadata: Metadata = {
   title: "Team Toucan Contributors | HNG 15 Internship",
