@@ -1,5 +1,5 @@
 import { Avatar, AvatarFallback } from "~/components/ui/avatar";
-import type { Contributor } from "~/data/zedu-toucan-contributors";
+import type { Contributor } from "../lib/zedu-toucan-contributors";
 
 function getInitials(name: string): string {
   const words = name.replace(/[^\p{L}\p{N}\s]/gu, "").split(/\s+/);
