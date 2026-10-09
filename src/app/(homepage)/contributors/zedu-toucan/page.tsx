@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: "Team Toucan Contributors | HNG 15 Internship",
     description:
       "Meet the AI Product Engineers of Team Toucan from the HNG 15 Internship contributing to Zedu.",
-    url: siteUrl("/contributors/zedu-Toucan"),
+    url: siteUrl("/contributors/zedu-toucan"),
     siteName: "Zedu",
     images: [
       {
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     images: [ogImageUrl("og-image-5.png")],
   },
   alternates: {
-    canonical: siteUrl("/contributors/zedu-Toucan"),
+    canonical: siteUrl("/contributors/zedu-toucan"),
   },
   robots: {
     index: true,
